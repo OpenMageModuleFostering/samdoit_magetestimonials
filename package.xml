@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Samdoit_Magetestimonials</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Ultimate Testimonials easy to create your testimonials  content and easy to access by admin user</summary>
+    <description>Ultimate Testimonials to add your testimonials in magento admin you can view from your front end, you can view the testimonials by http://your-domain/testimonials</description>
+    <notes>Stable Version tested the compatibility with magento 1.7.2</notes>
+    <authors><author><name>Samdoit</name><user>samdoit</user><email>arulmanickams@samdoit.com</email></author></authors>
+    <date>2013-09-13</date>
+    <time>06:06:44</time>
+    <contents><target name="mageetc"><dir name="modules"><file name="Samdoit_Magetestimonials.xml" hash="1a32c3231d97d8ffba6697afaf470e54"/></dir></target><target name="magecommunity"><dir name="Samdoit"><dir name="Magetestimonials"><dir><dir name="Block"><dir name="Adminhtml"><dir name="Magetestimonials"><dir name="Edit"><file name="Form.php" hash="12488b62f9179e0f20f7bc10330a796d"/><dir name="Tab"><file name="Form.php" hash="a529b0a0e450103c07134ff57b8cb5d8"/></dir><file name="Tabs.php" hash="0296964121029a78631d0f138e560300"/></dir><file name="Edit.php" hash="aee55b42e89e4a96b2bfd5a50d3b6f54"/><file name="Grid.php" hash="6e14be924a2d29ea85fcaab4ac951e43"/></dir><file name="Magetestimonials.php" hash="a5134df79fb61d91ac0d6da7448e5a3e"/></dir><file name="Magetestimonials.php" hash="4c6941ccce236281d0e4037c059529fc"/><file name=".Magetestimonials.php.swp" hash="5f6a330f86a45c7e28d18c51a4682dac"/></dir><dir name="Helper"><file name="Data.php" hash="72d2e7efb63169d2d14660a8e809a57e"/></dir><dir name="Model"><file name="Magetestimonials.php" hash="f4221d6b748b5b6a67b1a9a00b2dd93c"/><dir name="Mysql4"><dir name="Magetestimonials"><file name="Collection.php" hash="ba0d1ee3b3e775dac496e557317bbb3f"/></dir><file name="Magetestimonials.php" hash="cd5ed6b55cd7eccc686fa087ce5f9a57"/></dir><file name="Status.php" hash="c142ce69e01b8f92f81168247de40c9b"/></dir><dir name="controllers"><dir name="Adminhtml"><file name="MagetestimonialsController.php" hash="74aedd18b43929bc432aab99187aaec9"/></dir><file name="IndexController.php" hash="fb28034acab91b1748cea1d4e35d87fc"/></dir><dir name="etc"><file name="config.xml" hash="00100c20f8835f35b646a1e7c4ce98f7"/></dir><dir name="sql"><dir name="magetestimonials_setup"><file name="mysql4-install-1.0.0.php" hash="41b0e2c96eba9a229ab836ede486a2d5"/></dir></dir></dir></dir></dir></target><target name="magedesign"><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="layout"><file name="magetestimonials.xml" hash="14b173f1d807050d8d8e0497a3a9e22b"/></dir></dir></dir></dir><dir name="frontend"><dir name="default"><dir name="default"><dir name="template"><dir name="magetestimonials"><file name="magetestimonials.phtml" hash="6a7e9ae8cc57a0effecdc78f41bc8f45"/></dir></dir><dir name="layout"><file name="magetestimonials.xml" hash="5bec12a249a0eaff29acad3706c5c17f"/></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

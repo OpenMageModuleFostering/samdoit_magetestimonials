@@ -1,0 +1,17 @@
+<?php
+	$pageDetail = $this->getMagetestimonials();
+?>
+<ul>
+<?php foreach($pageDetail as $key=>$value) {?>
+<li>
+<div>
+	<div id="portfolio-header">
+		<h3><?php echo $value['title'];?></h3>
+	</div>
+	<div id="portfolio-content">
+		<?php echo $value['content'];?>
+	</div>
+</div>
+</li>
+<?php } ?>
+</ul>

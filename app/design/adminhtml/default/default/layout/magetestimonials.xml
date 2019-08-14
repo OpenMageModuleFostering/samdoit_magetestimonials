@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <magetestimonials_adminhtml_magetestimonials_index>
+        <reference name="content">
+            <block type="magetestimonials/adminhtml_magetestimonials" name="magetestimonials" />
+        </reference>
+    </magetestimonials_adminhtml_magetestimonials_index>
+</layout>
