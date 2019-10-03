@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Samdoit_Magetestimonials",
+    "name": "openmage-module-fostering\/samdoit_magetestimonials",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Ultimate Testimonials easy to create your testimonials  content and easy to access by admin user",
     "authors": [
