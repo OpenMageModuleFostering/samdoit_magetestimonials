@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Samdoit_Magetestimonials",
+    "name": "OpenMageModuleFostering\/Samdoit_Magetestimonials",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "Ultimate Testimonials easy to create your testimonials  content and easy to access by admin user",
     "authors": [
-    {
-        "name": "Samdoit",
-        "email": "arulmanickams@samdoit.com"
-    }
-],
+        {
+            "name": "Samdoit",
+            "email": "arulmanickams@samdoit.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
